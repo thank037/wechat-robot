@@ -1,6 +1,6 @@
 package me.biezhi.wechat.exception;
 
-public class WechatException extends RuntimeException {
+public class WechatException extends RuntimeException { 
 	
 	private static final long serialVersionUID = 209248116271894410L;
 

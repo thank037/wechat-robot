@@ -7,7 +7,7 @@ import com.blade.kit.base.Config;
 
 import me.biezhi.wechat.model.WechatContact;
 
-public class Constant {
+public class Constant { 
 
 	public static final String HTTP_OK = "200";
 	public static final String BASE_URL = "https://webpush2.weixin.qq.com/cgi-bin/mmwebwx-bin";

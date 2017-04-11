@@ -65,7 +65,7 @@
             <!--(end) for package jar with dependencies -->
         </plugins>
     </build>
-
+ 
 <!-- 
 	<build>
 		<plugins>

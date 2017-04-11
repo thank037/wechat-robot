@@ -28,7 +28,7 @@ import me.biezhi.wechat.util.PingUtil;
 import me.biezhi.wechat.util.SemanticUtil;
 
 public class WechatServiceImpl implements WechatService {
-
+ 
 	private static final Logger LOGGER = LoggerFactory.getLogger(WechatService.class);
 	
 	// 图灵机器人

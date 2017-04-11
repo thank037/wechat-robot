@@ -2,7 +2,7 @@ package me.biezhi.wechat.model;
 
 import com.blade.kit.json.JSONArray;
 
-public class WechatContact {
+public class WechatContact { 
 
 	// 所有的好友信息
 	private JSONArray memberList;

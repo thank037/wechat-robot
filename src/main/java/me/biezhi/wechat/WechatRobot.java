@@ -22,7 +22,7 @@ import me.biezhi.wechat.ui.QRCodeFrame;
 import me.biezhi.wechat.util.CookieUtil;
 import me.biezhi.wechat.util.Matchers;
 
-public class WechatRobot {
+public class WechatRobot { 
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(WechatRobot.class);
 

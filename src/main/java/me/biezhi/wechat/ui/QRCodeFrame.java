@@ -14,7 +14,7 @@ import java.awt.Font;
 import java.awt.Color;
 
 public class QRCodeFrame extends JFrame {
-
+ 
 	private static final long serialVersionUID = 8550014433017811556L;
 	private JPanel contentPane;
 	

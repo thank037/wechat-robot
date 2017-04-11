@@ -1,0 +1,6 @@
+2017-03-27 11:35:07 WARN  [main] com.blade.kit.base.Config.loadInputStream(137) - InputStream not found: config.properties
+2017-03-27 11:35:08 INFO  [main] me.biezhi.wechat.WechatRobot.showQrCode(55) - 获取到随机uuid为 [YdurFCh8fA==]
+2017-03-27 11:35:09 INFO  [main] me.biezhi.wechat.WechatRobot.waitForLogin(84) - 等待扫描二维码登录...
+2017-03-27 11:35:25 WARN  [main] com.blade.kit.base.Config.loadInputStream(137) - InputStream not found: config.properties
+2017-03-27 11:35:27 INFO  [main] me.biezhi.wechat.WechatRobot.showQrCode(55) - 获取到随机uuid为 [AYsFYSK9Eg==]
+2017-03-27 11:35:27 INFO  [main] me.biezhi.wechat.WechatRobot.waitForLogin(84) - 等待扫描二维码登录...

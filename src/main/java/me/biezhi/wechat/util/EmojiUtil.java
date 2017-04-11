@@ -1,7 +1,7 @@
 package me.biezhi.wechat.util;
 
 public class EmojiUtil {
-	
+	 
 	/**
 	 * Emoji表情库
 	 * 	Array length:22(0-21)

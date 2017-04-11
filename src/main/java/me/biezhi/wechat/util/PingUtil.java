@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class PingUtil {
-    
+     
     public static boolean ping(String ipAddress) throws Exception {
         int  timeOut =  3000 ;  //超时应该在3钞以上
      // 当返回值是true时，说明host是可用的，false则不可。

@@ -5,7 +5,7 @@ import java.util.Random;
 import me.biezhi.wechat.Constant;
 
 public class SemanticUtil {
-	
+	 
 	public static String semanticHandle(String content){
 		if( content.contains("豆丁") || content.contains("在") ){
 			if((!content.contains("安")) && (!content.contains("好"))){

@@ -1,5 +1,5 @@
 package me.biezhi.wechat.model;
 
-public class WechatGroup {
+public class WechatGroup { 
 
 }

@@ -7,7 +7,7 @@ import me.biezhi.wechat.model.WechatContact;
 import me.biezhi.wechat.model.WechatMeta;
 
 public interface WechatService {
-	
+	 
 	/**
 	 * 获取UUID
 	 * @return
